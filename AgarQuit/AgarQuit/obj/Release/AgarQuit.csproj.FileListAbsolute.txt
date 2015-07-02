@@ -1,0 +1,8 @@
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\bin\Release\AgarQuit.exe.config
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\bin\Release\AgarQuit.exe
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\bin\Release\AgarQuit.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\obj\Release\AgarQuit.Form1.resources
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\obj\Release\AgarQuit.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\obj\Release\AgarQuit.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\obj\Release\AgarQuit.exe
+C:\Users\Mustafa\Documents\Visual Studio 2013\Projects\AgarQuit\AgarQuit\obj\Release\AgarQuit.pdb
