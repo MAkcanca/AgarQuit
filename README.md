@@ -1,5 +1,5 @@
 # AgarQuit
-[Screenshot](https://github.com/MAkcanca/AgarQuit/raw/master/screenshot.png?raw=true)
+![Screenshot](https://github.com/MAkcanca/AgarQuit/raw/master/screenshot.png?raw=true)
 Basic hosts file editor with a button in Windows Form / C#
 
 - Forces to use it with Administrator rights / highestavailable ( see app.manifest )
